@@ -7,7 +7,7 @@
 
 **Thoughts:** Working on new langauage is not a challenging thing if you have your logics clear. Seems good now. Enjoying it
 
-**Link to work:** [Basic Program on Pythons : print hello world, type casting, string manipulation](https://github.com/bhanurangani/code-days-ml-code100/tree/master/codes/day-0)
+**Link to work:** [Basic Program on Pythons : print hello world, type casting, string manipulation](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-0)
 
 ### Day 1: July 2, 2018 (Monday)
 ##### (delete me or comment me out)
@@ -16,7 +16,7 @@
 
 **Thoughts**: Lists and Tuples are easy to implement, and fun working on.
 
-**Link(s) to work**: [List and Tuples](https://github.com/bhanurangani/code-days-ml-code100/tree/master/codes/day-1)
+**Link(s) to work**: [List and Tuples](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-1)
 
 ### Day 2: July 3, 2018 (Tuesday)
 ##### (delete me or comment me out)
@@ -25,7 +25,7 @@
 
 **Thoughts**: Thankfully, i got all my programs executed without error. I thought that error can occur in case of taking input from user.
 
-**Link(s) to work**: [Condition, Loops and Taking Input](https://github.com/bhanurangani/code-days-ml-code100/tree/master/codes/day-2)
+**Link(s) to work**: [Condition, Loops and Taking Input](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-2)
 
 ### Day 3: July 4, 2018 (Wednesday)
 ##### (delete me or comment me out)
@@ -34,7 +34,7 @@
 
 **Thoughts**: Today, it was little tough for me, because i got stuck at a point where the expected out was not being generated. I will take the help of my sir for that.
 
-**Link(s) to work**: [For Loop, and a program to Search a name where input is given by user](https://github.com/bhanurangani/code-days-ml-code100/tree/master/codes/day-3)
+**Link(s) to work**: [For Loop, and a program to Search a name where input is given by user](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-3)
 
 ### Day 4: July 5, 2018 (Thursday)
 ##### (delete me or comment me out)
@@ -43,4 +43,4 @@
 
 **Thoughts**: Need to practice more to set myself in this language.
 
-**Link(s) to work**: [Functions, array, and function to print factorial(recursively)](https://github.com/bhanurangani/code-days-ml-code100/tree/master/codes/day-3)
+**Link(s) to work**: [Functions, array, and function to print factorial(recursively)](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-4)
