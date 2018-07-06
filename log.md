@@ -44,3 +44,12 @@
 **Thoughts**: Need to practice more to set myself in this language.
 
 **Link(s) to work**: [Functions, array, and function to print factorial(recursively)](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-4)
+
+### Day 5: July 5, 2018 (Friday)
+##### (delete me or comment me out)
+
+**Today's Progress**: Today I worked on Classes, learnt how to use classes in python. Also performed some functions in it.
+
+**Thoughts**: Coding is interesting and definitely my cup of tea.
+
+**Link(s) to work**: [Class Demo, Functions Within class](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-5)
