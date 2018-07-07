@@ -53,3 +53,12 @@
 **Thoughts**: Coding is interesting and definitely my cup of tea.
 
 **Link(s) to work**: [Class Demo, Functions Within class](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-5)
+
+### Day 6: July 6, 2017 (Saturday)
+##### (delete me or comment me out)
+
+**Today's Progress**: Today i made my base more stronger , by working on function and classes.Not only that, but today i learned how to use modules in the program.
+
+**Thoughts**: working on modules is interesting and day by day i am learning something new.
+
+**Link(s) to work**: [Printing name and age using module, Basic functions like add,minus,multiply,division using Module](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-6)
