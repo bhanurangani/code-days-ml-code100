@@ -62,3 +62,12 @@
 **Thoughts**: working on modules is interesting and day by day i am learning something new.
 
 **Link(s) to work**: [Printing name and age using module, Basic functions like add,minus,multiply,division using Module](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-6)
+
+### Day 7: July 7, 2017 (Sunday)
+##### (delete me or comment me out)
+
+**Today's Progress**:Today i did some programs on date.And above all today i learnt File Handling in Python.
+
+**Thoughts**:Faced little problem in creating file, but now its easy to create a file and write, read , append into it
+
+**Link(s) to work**: [Printing today's date,Taking input from user to write in file,Appending text into file] (https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-7)
