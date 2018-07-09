@@ -71,3 +71,12 @@
 **Thoughts**:Faced little problem in creating file, but now its easy to create a file and write, read , append into it
 
 **Link(s) to work**: [Printing today's date,Taking input from user to write in file,Appending text into file] (https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-7)
+
+### Day 8: July 8, 2017 (Monday)
+##### (delete me or comment me out)
+
+**Today's Progress**:Today I struggled a lot how to take input in a 2D array.
+
+**Thoughts**:Will ask my friends how to take input in @D array who are working on Pytrhon
+
+**Link(s) to work**: [Deleting a file,2D array] (https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-8)
