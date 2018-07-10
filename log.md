@@ -45,7 +45,7 @@
 
 **Link(s) to work**: [Functions, array, and function to print factorial(recursively)](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-4)
 
-### Day 5: July 5, 2018 (Friday)
+### Day 5: July 6, 2018 (Friday)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Today I worked on Classes, learnt how to use classes in python. Also performed some functions in it.
@@ -54,7 +54,7 @@
 
 **Link(s) to work**: [Class Demo, Functions Within class](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-5)
 
-### Day 6: July 6, 2017 (Saturday)
+### Day 6: July 7, 2017 (Saturday)
 ##### (delete me or comment me out)
 
 **Today's Progress**: Today i made my base more stronger , by working on function and classes.Not only that, but today i learned how to use modules in the program.
@@ -63,7 +63,7 @@
 
 **Link(s) to work**: [Printing name and age using module, Basic functions like add,minus,multiply,division using Module](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-6)
 
-### Day 7: July 7, 2017 (Sunday)
+### Day 7: July 8, 2017 (Sunday)
 ##### (delete me or comment me out)
 
 **Today's Progress**:Today i did some programs on date.And above all today i learnt File Handling in Python.
@@ -72,7 +72,7 @@
 
 **Link(s) to work**: [Printing today's date,Taking input from user to write in file,Appending text into file](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-7)
 
-### Day 8: July 8, 2017 (Monday)
+### Day 8: July 9, 2017 (Monday)
 ##### (delete me or comment me out)
 
 **Today's Progress**:Today I struggled a lot how to take input in a 2D array.
@@ -80,3 +80,12 @@
 **Thoughts**:Will ask my friends how to take input in @D array who are working on Pytrhon
 
 **Link(s) to work**: [Deleting a file,2D array](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-8)
+
+### Day 9: July 10, 2017 (Monday)
+##### (delete me or comment me out)
+
+**Today's Progress**:Learnt how to make an app using django.
+
+**Thoughts**:Django is little tough.
+
+**Link(s) to work**: [creating music app](https://github.com/bhanurangani/code-days-ml-code100/tree/master/code/day-9)
